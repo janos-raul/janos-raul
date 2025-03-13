@@ -5,9 +5,9 @@
 - 📫 How to reach me ...>[janos-raul](https://discord.gg/9yXgGQpSab)
 - # Welcome to my profile!
 
-Here is a video stream:
+# Welcome to my profile!
 
-<iframe src="http://vlaha-41.go.ro:50800/stream" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+Here is a [video stream](http://vlaha-41.go.ro:50800/stream).
 
 <!---
 janos-raul/janos-raul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
